@@ -43,5 +43,3 @@ func OpenInEditor(editor string, filepath string) error {
 	}
 	return nil
 }
-
-
